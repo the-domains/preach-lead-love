@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Preach Lead Love]]></title>
+        <description><![CDATA[Preach Lead Love]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 14:56:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.churchreplanters.com/blog/moving-a-dying-church-forward</p>]]></description>
+            <link>undefinedhttpwwwchurchreplanterscomblogmoving-a-dying-church-f/index.html</link>
+            <guid isPermaLink="false">351bb636-9b0a-418c-9652-1206f435aa7f</guid>
+            <pubDate>Thu, 19 May 2016 14:22:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
