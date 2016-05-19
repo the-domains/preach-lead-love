@@ -1,0 +1,28 @@
+name: Preach Lead Love
+favicon: null
+layout_spectrum: 0.3830466684885323
+typography_spectrum: 0.24718828103505075
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7089295571204275
+  lightness: 0.9558202023617923
+  saturation: 0.4591910850722343
+  rhythmicContrast: 0.32775267539545894
+purpose: []
